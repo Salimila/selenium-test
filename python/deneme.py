@@ -1,3 +1,4 @@
 ad="salim"
-takım="galatasaray"
+takim="galatasaray"
 sehir="istanbul"
+ulke="türkiye"
