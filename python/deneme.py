@@ -1,0 +1,2 @@
+ad="salim"
+takım="galatasaray"
